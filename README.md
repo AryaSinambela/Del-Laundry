@@ -52,10 +52,8 @@ src/
       └── history_transaksi.txt # (Terbuat otomatis) Rekap log transaksi
 	  
 ```
-
-```
 ## Output
-
+```
 =============================================
                STRUK DEL-LAUNDRY             
 =============================================
@@ -67,10 +65,10 @@ Cuci Komplit (3.5 kg x Rp 8.000)   Rp  28.000
 SUBTOTAL                           Rp  28.000
 DISKON VIP (10%)                   Rp  -2.800
 ONGKIR                             Rp       0 (FREE)
-
-```
-```
 ---------------------------------------------
 TOTAL BAYAR                        Rp  25.200
 =============================================
 [SYSTEM LOG] Struk berhasil disimpan secara permanen.
+
+```
+```
