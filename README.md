@@ -21,6 +21,19 @@ Sistem ini dirancang dengan standar *Software Engineering* yang baik melalui pen
 * **File I/O:** Menerapkan `FileWriter` dan `BufferedWriter` untuk menyimpan struk transaksi ke `logs/history_transaksi.txt`.
 * **Multithreading:** Menggunakan `Thread.sleep()` dalam iterasi untuk menyimulasikan proses *loading* secara *asynchronous*.
 
+##🛠️ Prasyarat (Prerequisites)
+Java Development Kit (JDK) versi 8 atau lebih baru.
+
+Terminal / Command Prompt / IDE (seperti IntelliJ IDEA, Eclipse, atau VS Code).
+
+##🚀 Cara Menjalankan Program (How to Run)
+Buka terminal atau IDE pilihan Anda dan arahkan ke direktori root proyek (src).
+
+Kompilasi program menggunakan perintah:
+javac driver/Driver4.java model/*.java
+
+Jalankan program dengan perintah:
+java driver.Driver4
 ```
 
 ## 📂 Struktur Proyek
@@ -38,19 +51,7 @@ src/
  └── logs/
       └── history_transaksi.txt # (Terbuat otomatis) Rekap log transaksi
 	  
-##🛠️ Prasyarat (Prerequisites)
-Java Development Kit (JDK) versi 8 atau lebih baru.
-
-Terminal / Command Prompt / IDE (seperti IntelliJ IDEA, Eclipse, atau VS Code).
-
-##🚀 Cara Menjalankan Program (How to Run)
-Buka terminal atau IDE pilihan Anda dan arahkan ke direktori root proyek (src).
-
-Kompilasi program menggunakan perintah:
-javac driver/Driver4.java model/*.java
-
-Jalankan program dengan perintah:
-java driver.Driver4
+```
 
 ```
 ## Output
@@ -66,6 +67,9 @@ Cuci Komplit (3.5 kg x Rp 8.000)   Rp  28.000
 SUBTOTAL                           Rp  28.000
 DISKON VIP (10%)                   Rp  -2.800
 ONGKIR                             Rp       0 (FREE)
+
+```
+```
 ---------------------------------------------
 TOTAL BAYAR                        Rp  25.200
 =============================================
