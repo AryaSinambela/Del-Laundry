@@ -53,7 +53,8 @@ java driver.Driver4
 
 
 
-## Output Terminal
+
+**## 📂 Output**
 
 =============================================
                STRUK DEL-LAUNDRY             
