@@ -34,9 +34,10 @@ javac driver/Driver4.java model/*.java
 
 Jalankan program dengan perintah:
 java driver.Driver4
-```
+
 
 ## 📂 Struktur Proyek
+```
 Sistem memisahkan logika bisnis (Model) dan antarmuka (Driver) agar kode tetap modular.
 ```text
 src/
