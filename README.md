@@ -37,12 +37,12 @@ src/
  └── logs/
       └── history_transaksi.txt # (Terbuat otomatis) Rekap log transaksi
 	  
-	  🛠️ Prasyarat (Prerequisites)
+##🛠️ Prasyarat (Prerequisites)
 Java Development Kit (JDK) versi 8 atau lebih baru.
 
 Terminal / Command Prompt / IDE (seperti IntelliJ IDEA, Eclipse, atau VS Code).
 
-🚀 Cara Menjalankan Program (How to Run)
+##🚀 Cara Menjalankan Program (How to Run)
 Buka terminal atau IDE pilihan Anda dan arahkan ke direktori root proyek (src).
 
 Kompilasi program menggunakan perintah:
@@ -51,23 +51,9 @@ javac driver/Driver4.java model/*.java
 Jalankan program dengan perintah:
 java driver.Driver4
 
-Ikuti instruksi interaktif yang muncul di layar terminal.
 
-Contoh Output Terminal
-=============================================
-        SISTEM MANAJEMEN DEL-LAUNDRY       
-=============================================
-Masukkan Nama Pelanggan: Arya Sinambela
-Apakah pelanggan memiliki Member VIP? (y/n): y
 
-Pilih layanan (1-4) atau ketik 0 untuk selesai memilih: 1
-Masukkan berat (kg): 3.5
- -> Sukses ditambahkan ke keranjang.
-
-Pilih layanan (1-4) atau ketik 0 untuk selesai memilih: 0
-
-Apakah pesanan akan diantar / Delivery? (y/n): y
-Memproses... [||||||||||||||||||||] 100%
+## Output Terminal
 
 =============================================
                STRUK DEL-LAUNDRY             
