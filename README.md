@@ -21,6 +21,7 @@ Sistem ini dirancang dengan standar *Software Engineering* yang baik melalui pen
 * **File I/O:** Menerapkan `FileWriter` dan `BufferedWriter` untuk menyimpan struk transaksi ke `logs/history_transaksi.txt`.
 * **Multithreading:** Menggunakan `Thread.sleep()` dalam iterasi untuk menyimulasikan proses *loading* secara *asynchronous*.
 
+```
 
 ## 📂 Struktur Proyek
 Sistem memisahkan logika bisnis (Model) dan antarmuka (Driver) agar kode tetap modular.
@@ -53,6 +54,7 @@ java driver.Driver4
 
 ```
 ## Output
+
 =============================================
                STRUK DEL-LAUNDRY             
 =============================================
