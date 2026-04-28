@@ -51,11 +51,8 @@ javac driver/Driver4.java model/*.java
 Jalankan program dengan perintah:
 java driver.Driver4
 
-
-
-
-**## 📂 Output**
-
+```
+## Output
 =============================================
                STRUK DEL-LAUNDRY             
 =============================================
